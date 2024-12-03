@@ -1,4 +1,3 @@
-**Overview**
 This project aims to predict flight fares using historical data and various features that influence ticket prices. The primary goal is to develop a machine learning model that can accurately forecast airfare prices based on factors like airline, source, destination, departure time, arrival time, and duration, among others. Flight fare prediction is a crucial problem in the aviation industry, benefiting both airlines and customers by optimizing costs and offering better deals.
 
 **Problem Statement**
